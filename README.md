@@ -52,31 +52,31 @@ This repository is an organized index of my GitHub projects. It helps recruiters
 
 ### WordPress Plugins
 
-- [Maintenance Mode Switch](https://github.com/heyashrafkhan/maintenance-mode-switch)
-- [Custom Admin Logo](https://github.com/heyashrafkhan/custom-admin-logo)
-- [Dummy Post Generator](https://github.com/heyashrafkhan/dummy-post-generator)
-- [Hello Bar Lite](https://github.com/heyashrafkhan/hello-bar-lite)
-- [WP Reset](https://github.com/heyashrafkhan/wp-reset)
-- [Enable SVG](https://github.com/heyashrafkhan/enable-SVG)
-- [CF7 Advanced Spam Protection](https://github.com/heyashrafkhan/cf7-advanced-spam-protection)
-- [WP Floater](https://github.com/heyashrafkhan/wp-floater)
+WordPress plugins for administration, content management, forms, maintenance mode, security, and website customization.
 
-### WordPress Themes and Tools
+| Project | Description |
+|---|---|
+| [Maintenance Mode Switch](https://github.com/heyashrafkhan/maintenance-mode-switch) | Toggle a maintenance-mode page directly from the WordPress admin bar. |
+| [Custom Admin Logo](https://github.com/heyashrafkhan/custom-admin-logo) | Change the WordPress administration logo. |
+| [Dummy Post Generator](https://github.com/heyashrafkhan/dummy-post-generator) | Generate dummy posts, pages, and custom post types for WordPress testing and development. |
+| [Hello Bar Lite](https://github.com/heyashrafkhan/hello-bar-lite) | Display a customizable one-line banner at the top of WordPress pages. |
+| [WP Reset](https://github.com/heyashrafkhan/wp-reset) | WordPress development and site-reset utility. |
+| [Enable SVG](https://github.com/heyashrafkhan/enable-SVG) | Enable SVG uploads in WordPress. |
+| [CF7 Advanced Spam Protection](https://github.com/heyashrafkhan/cf7-advanced-spam-protection) | Advanced spam protection for Contact Form 7. |
+| [WP Floater](https://github.com/heyashrafkhan/wp-floater) | WordPress floating interface or content utility. |
 
-- [AK Studio](https://github.com/heyashrafkhan/ak-studio)
-- [Astra Theme Visual Hooks](https://github.com/heyashrafkhan/astra-theme-visual-hooks)
-- [WP Showcase](https://github.com/heyashrafkhan/wp-showcase)
-- [Browser Extension](https://github.com/heyashrafkhan/browser-extension)
+### Web Applications and Developer Tools (React.JS/Next.JS)
 
-### Web Applications and Developer Tools
+Web-based tools for website analysis, technology detection, lead generation, and rapid development.
 
-- [FreeStack](https://github.com/heyashrafkhan/FreeStack)
-- [Web Check](https://github.com/heyashrafkhan/web-check)
-- [Web Check Free](https://github.com/heyashrafkhan/web-check-free)
-- [SiteInfo](https://github.com/heyashrafkhan/siteinfo)
-- [Web Cloner](https://github.com/heyashrafkhan/web-cloner)
-- [TechUsed](https://github.com/heyashrafkhan/techUsed)
-- [Abacus Mind](https://github.com/heyashrafkhan/abacus-mind)
+| Project | Description |
+|---|---|
+| [FreeStack](https://github.com/heyashrafkhan/FreeStack) | Free and open-source technology lookup and lead-intelligence platform. Detect website technology stacks, scan domains, export lead data, and access a REST API. |
+| [SiteInfo](https://github.com/heyashrafkhan/siteinfo) | Website information and technology analysis tool. |
+| [Web Cloner](https://github.com/heyashrafkhan/web-cloner) | Web-cloning and rapid-prototyping tool for replicating website structures and styles. |
+| [TechUsed](https://github.com/heyashrafkhan/techUsed) | Identify technologies used by websites. |
+| [MyFavTool](https://github.com/heyashrafkhan/MyFavTool) | A collection of practical web utilities designed to simplify common developer and productivity tasks. |
+| [Sanity Studio](https://github.com/heyashrafkhan/) | Experience working with Sanity Studio, a customizable content management interface for structured content and web projects. |
 
 ### Chrome Extensions
 
